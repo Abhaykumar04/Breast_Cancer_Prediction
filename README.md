@@ -33,6 +33,4 @@ The breast cancer prediction system follows the following workflow:
 
 The breast cancer prediction system developed using Flask provides a user-friendly interface for predicting breast cancer likelihood. By leveraging machine learning algorithms, the system empowers healthcare professionals and individuals to make informed decisions and potentially detect breast cancer at an early stage.
 
-Please refer to the code files in this repository for a detailed implementation of the breast cancer prediction system. Feel free to customize and modify the code according to your specific requirements and data.
-
-Remember to provide the necessary data and ensure compliance with ethical considerations while utilizing the system for practical purposes.
+![image](https://github.com/Abhaykumar04/Breast_Cancer_Prediction/assets/112232080/e211b2bc-f8df-413b-b8ac-305ff994564c)
